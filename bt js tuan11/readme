@@ -1,0 +1,14 @@
+//npm -global command, comes with nodes
+// npm --version
+
+//local dependencies - use it only in this particular project
+// npm i <packagename>
+
+//global dependencies - use it in any project
+// npm i -g <packagename>
+// sudo npm install -g <packagename> (mac)
+
+//package.json - manifests file (stores important infor about project/package)
+//manual approach (create package.json in the root directory, create properties)
+// npm init (step by step, press enter to skip)
+// npm init -y (everything default)
